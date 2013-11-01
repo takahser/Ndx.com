@@ -21,9 +21,14 @@
 ### User möchte Farbe jeder Kachel bestimmen können. (Admin)
 
 ### User möchte Titel jeder Kachel bestimmen können (Admin). 
+
 ### User möchte Logo jeder Kachel bestimmen können (Admin). 
+
 ### User möchte Content einer Page bearbeiten können (Admin). 
+
 ### User möchte den Page Content formatieren können (fett/kursiv/Schriftgrösse) (Admin).
+
 ### User möchte Bilder in den Page Content einfügen können (Admin).
 
+### User möchte Feedback zum absolvierten Kurs erfassen können (gemäss PDF-Vorlage "Feedback.pdf")
 
